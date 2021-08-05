@@ -1,3 +1,6 @@
 [submodule "vim"]
 	path = vim
 	url = git@github.com:kamalsacranie/vim-config.git
+[submodule "ranger"]
+	path = ranger
+	url = git@github.com:kamalsacranie/ranger-config.git

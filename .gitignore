@@ -1,0 +1,17 @@
+# All configs in our base directory that we dont want/haven't
+# looked at in depth
+.mono
+configstore
+htop
+qBittorrent
+iterm2
+rstudio
+
+# Unnecessary ranger files
+ranger/.lastdir
+**/__init__.?
+
+**/.zsh_history
+
+**/viminfo
+

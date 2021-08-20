@@ -1,9 +1,9 @@
-[submodule "vim"]
-	path = vim
-	url = https://github.com/kamalsacranie/vim-config.git
 [submodule "ranger"]
 	path = ranger
 	url = https://github.com/kamalsacranie/ranger-config.git
 [submodule "zsh"]
 	path = zsh
 	url = https://github.com/kamalsacranie/zsh-config.git
+[submodule "vim"]
+	path = vim
+	url = https://github.com/kamalsacranie/vim-config

@@ -1,3 +1,4 @@
 {
-    "suggest.numberSelect": true
+    "suggest.numberSelect": true,
+    "suggest.snippetsSupport": true
 }

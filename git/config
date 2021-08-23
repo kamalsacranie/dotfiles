@@ -3,12 +3,9 @@
 # Please adapt and uncomment the following lines:
 	name = Kamal Sacranie
 	email = kamalsjunkmail@gmail.com
-[filter "lfs"]
-	clean = git-lfs clean -- %f
-	smudge = git-lfs smudge -- %f
-	process = git-lfs filter-process
-	required = true
 [init]
 	defaultBranch = master
 [core]
-	excludesFile = /Users/kamalsacranie/.config/git/.gitignore_global
+    excludesFile = /Users/kamalsacranie/.config/git/.gitignore_global
+    editor = vim
+

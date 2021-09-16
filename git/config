@@ -7,5 +7,5 @@
 	defaultBranch = master
 [core]
     excludesFile = /Users/kamalsacranie/.config/git/.gitignore_global
-    editor = vim
+    editor = nvim
 

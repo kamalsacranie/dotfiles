@@ -4,6 +4,3 @@
 [submodule "zsh"]
 	path = zsh
 	url = https://github.com/kamalsacranie/zsh-config.git
-[submodule "vim"]
-	path = vim
-	url = https://github.com/kamalsacranie/vim-config

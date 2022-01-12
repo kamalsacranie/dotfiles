@@ -1,0 +1,7 @@
+**/gh/hosts.*
+**/qBittorrent/
+
+# Temp while I sort out my submodules
+nvim/
+zsh/
+ranger/

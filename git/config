@@ -1,0 +1,9 @@
+[user]
+	name = Kamal Sacranie
+	email = kamalsjunkmail@gmail.com
+[core]
+	editor = nvim
+[color]
+	ui = auto
+[init]
+	defaultBranch = mucho

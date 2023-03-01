@@ -1,2 +1,14 @@
 import readline
+import os
+import sys
+import subprocess
+
+
+def clear():
+    subprocess.run(["clear"])
+
+
+clear()
+
 readline.write_history_file = lambda *args: None
+readline.parse_and_bind("tab: complete")

@@ -1,0 +1,4 @@
+IRB.conf[:USE_MULTILINE] = true
+IRB.conf[:USE_COLORIZE] = true
+IRB.conf[:USE_AUTOCOMPLETE] = true
+IRB.conf[:PROMPT_MODE] = :SIMPLE

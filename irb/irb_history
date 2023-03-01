@@ -1,0 +1,42 @@
+def func(x)\
+  puts x\
+end
+func("jfdkls")
+cls
+print "jfdldfjs"
+fjkdlsjfld
+"jfkdlsjlfsd"
+"jfkdlsfj:\
+"
+ranger
+quit
+x
+ls
+exit
+"jfkdlsjflkd"
+clar
+clear
+require open
+require "open3"
+open3.popen3("clear")
+Open3.popen3("clear")
+Open3.popen3("clear")[3]("clear")
+Open3.popen3("clear")[1].puts("clear")
+IRB.conf
+IRB
+IRB::Color.att
+IRB::Color[]
+IRB::Color.
+IRB::Color.attr_reader
+module IRB::Color\
+  TOKEN_SEQ_EXPRS.each do |token, (seq, exprs)|\
+    puts  seq, exprs\
+  end
+module IRB::Color\
+  TOKEN_SEQ_EXPRS.each do |token, (seq, exprs)|\
+    puts  seq, exprs\
+  end\
+end
+IRB.conf
+"jfkldsjlfdjksl"
+exit

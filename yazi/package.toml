@@ -1,5 +1,5 @@
 [plugin]
-deps = [{ use = "yazi-rs/plugins:git", rev = "8ed2537" }]
+deps = [{ use = "yazi-rs/plugins:git", rev = "8ed2537" }, { use = "dedukun/bookmarks", rev = "202e450" }, { use = "dedukun/relative-motions", rev = "df97039" }]
 
 [flavor]
 deps = []

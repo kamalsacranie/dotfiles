@@ -1,0 +1,19 @@
+[manager]
+prepend_keymap = [
+    # Bookmarks plugin
+    { on = [ "m" ], run = "plugin bookmarks --args=save", desc = "Save current position as a bookmark" },
+    { on = [ "'" ], run = "plugin bookmarks --args=jump", desc = "Jump to a bookmark" },
+    { on = [ "b", "d" ], run = "plugin bookmarks --args=delete", desc = "Delete a bookmark" },
+    { on = [ "b", "D" ], run = "plugin bookmarks --args=delete_all", desc = "Delete all bookmarks" },
+
+    # Relative movements plugin
+    { on = [ "1" ], run = "plugin relative-motions --args=1", desc = "Move in relative steps" },
+    { on = [ "2" ], run = "plugin relative-motions --args=2", desc = "Move in relative steps" },
+    { on = [ "3" ], run = "plugin relative-motions --args=3", desc = "Move in relative steps" },
+    { on = [ "4" ], run = "plugin relative-motions --args=4", desc = "Move in relative steps" },
+    { on = [ "5" ], run = "plugin relative-motions --args=5", desc = "Move in relative steps" },
+    { on = [ "6" ], run = "plugin relative-motions --args=6", desc = "Move in relative steps" },
+    { on = [ "7" ], run = "plugin relative-motions --args=7", desc = "Move in relative steps" },
+    { on = [ "8" ], run = "plugin relative-motions --args=8", desc = "Move in relative steps" },
+    { on = [ "9" ], run = "plugin relative-motions --args=9", desc = "Move in relative steps" }
+]

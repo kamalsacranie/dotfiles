@@ -1,0 +1,100 @@
+:main
+doesFileExist "fdsjklj flkds flk ds flkds lfkld sfds"
+import System.Directory (createDirectoryIfMissing, doesDirectoryExist, listDirectory, makeAbsolute, doesFileExist)
+import System.Directory (createDirectoryIfMissing, doesDirectoryExist, listDirectory, makeAbsolute)
+readFile' "fdjkslfjdls jfkljds lfjklds"
+import System.IO (readFile')
+main
+main
+main
+import Spec.MainTest
+import Spec.MainTest.hs
+unwords []
+unword []
+getPOSIXTime
+import Data.Time.Clock.POSIX (getPOSIXTime)
+cd /Users/kamalsacranie/Desktop/anki-panky/app
+listDirectory ".." >>= (\a -> mapM_ (\b -> case b of ('.' : rest) -> print rest; _ -> print b) a)
+listDirectory ".." >>= (\a -> mapM_ (print) a)
+listDirectory ".." >>= (\a -> mapM_ () a)
+listDirectory ".." >>= (\a -> print a)
+listDirectory ".."
+listDirectory "."
+import System.Directory
+listDirectory
+listDirectory "../LICENSE"
+listDirectory "../LICENSE" "
+listDirectory ".."
+listDirectory ".///"
+listDirectory "./"
+listDirectory "."
+listDirectory .
+takeBaseName "/fdsjkhlfdsa/fdsajkfdsjafdsa/fdsajkfldjsalfdsa/tejkjkdfs/"
+takeBaseName $ takeDirectory "/fdsjkhlfdsa/fdsajkfdsjafdsa/fdsajkfldjsalfdsa/tejkjkdfs/"
+takeBaseName $ takeDirectory "/fdsjkhlfdsa/fdsajkfdsjafdsa/fdsajkfldjsalfdsa/tejkjkdfs"
+takeBaseName $ takeDirectory "/fdsjkhlfdsa/fdsajkfdsjafdsa/fdsajkfldjsalfdsa/tejkjkdfs/"
+takeBaseName $ takeDirecotry "/fdsjkhlfdsa/fdsajkfdsjafdsa/fdsajkfldjsalfdsa/tejkjkdfs/"
+takeDirectory "fdsjkjflds/fdsjkkfljds/" >>= takeBaseName 
+takeDirectory "fdsjkjflds/fdsjkkfljds/"
+takeDirectory "fdsjkjflds/fdsjkkfljds/"
+takeBaseName "jfkds/jfkdsjkl"
+takeBaseName "jfkds/jfkdsjkl/"
+import System.FilePath
+doesDirectoryExist "Main.hs"
+doesDirectoryExist "./Typesf"
+doesDirectoryExist "./Types"
+doesDirectoryExist "./Main.hs"
+doesDirectoryExist ./Main.hs
+import System.Directory
+exit
+exit
+:main
+exit
+:main
+exit
+:main
+bottomUpRegMatch "aaaaaab" "*ab"
+:r
+bottomUpRegMatch "aaaaaab" "*ab"
+bottomUpRegMatch "aaaaaa" "*ab"
+bottomUpRegMatch "aaaaaab" "*ab"
+bottomUpRegMatch "aaaaaa" "*ab"
+bottomUpRegMatch "aaaaaa" "*ab"
+bottomUpRegMatch "aaaaaab" "*ab"
+regMatch "aaaab" "?aaab"
+regMatch "aaaab" "?ab"
+regMatch "aaaab" "*ab"
+regMatch "aaaab" "*abb"
+:r
+regMatch "aaaab" "*abb"
+regMatch "aaaab" "*ab"
+merge a b
+b = createTreeFromList'
+a = createTreeFromList
+:r
+merge a b
+b = createTreeFromList'
+a = createTreeFromList
+:r
+merge a b
+b = createTreeFromList'
+a = createTreeFromList
+:r
+merge a b
+b = createTreeFromList'
+a = createTreeFromList
+:r
+merge a b
+a
+b = createTreeFromList'
+a = createTreeFromList
+merge a b
+b = createKVList'
+a = createKVList
+:r
+createTreeFromList 
+:main
+:main
+:r
+:main
+:r

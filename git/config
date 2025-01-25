@@ -3,6 +3,7 @@
 	email = kamalsjunkmail@gmail.com
 [core]
 	editor = nvim
+	pager = delta
 [color]
 	ui = auto
 [init]
@@ -11,3 +12,12 @@
 	helper = osxkeychain
 [push]
     autoSetupRemote = true
+[clean]
+	requireForce = false
+[rebase]
+	autoSquash = true
+	autoStash = true
+[alias]
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+[rerere]
+	enabled = true

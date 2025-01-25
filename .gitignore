@@ -1,5 +1,8 @@
 **/gh/hosts.*
 **/qBittorrent/
+cabal/
+lima/
+colima/
 
 # Temp while I sort out my submodules
 nvim/
